@@ -12,7 +12,7 @@ tags:
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Kevin Nichols, Zane Reynolds<br>
+Professors: Kevin Nichols, Zane Reynolds<br>
   
 
 </center>
