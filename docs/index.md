@@ -6,12 +6,13 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 104<br>
+<font size="5">Yazmin Herrera, Matthew Hopwood, Logan Maelstrom, Hannah Ross<br> 
+**Submission: September 04, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Kevin Nichols, Zane Reynolds<br>
   
 
 </center>
@@ -26,7 +27,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Yazmin Herrera         | [YazminHerrera.GitHub](https://yazminherreraasu.github.io/) |
+| Matthew Hopwood        | [MatthewHopwood.GitHub](link) |
+| Logan Maelstrom        | [LoganMaelstrom.Github](link) |
+| Hannah Ross            | [HannahRoss.GitHub](link) |
