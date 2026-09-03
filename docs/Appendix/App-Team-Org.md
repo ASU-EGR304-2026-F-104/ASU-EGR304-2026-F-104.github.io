@@ -7,7 +7,11 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1.) Strengthen engineering concepts and skills
+2.) Practice communication skills
+3.) Successfully finish project and course and take knowledge to other courses
+4.) Expand professional and academic portfolios
+5.) Demonstrate our knowledge to others in a professional setting
 
 ## Communication Channels
 
@@ -15,18 +19,18 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Yazmin               |  Text                      | Email                       | Discord                    |
+|Matthew              |  Text                      | Email                       | Discord                    |
+|Logan                |  Text                      | Email                       | Discord                    |
+|Hannah               |  Text                      | Discord                     | Email                      |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is group text.
  
 ## Communication Procedures
 
-1. How will your team communicate?
+1. How will your team communicate? Through group text
 2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
 
 ## Meeting Schedule
@@ -35,29 +39,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | - | - | - |
+| 11:00 AM | - | - | - | - | - | - | - |
+| 12:00 PM | - | - | - | - | - | Y,M,L,H | - |
+| 1:00 PM | - |  | - | - | - | Y,M,L,H | - |
+| 2:00 PM | - | - | - | - | - | Y,M,L,H | - |
+| 3:00 PM | - | - | - | - | - | Y,M,L,H | - |
+| 4:00 PM | - | - | - | - | - | Y,M,L,H | - |
+| 5:00 PM | - | - | - | - | - | - | - |
+| 6:00 PM | - | - | - | - | - | - | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | - | - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
-| ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| -----   | :------:  |
+| Yazmin  | Y |
+| Matthew | M |
+| Logan   | L |
+| Hannah  | H |
 
 
 ## Meeting Coordination
@@ -84,6 +88,6 @@ Need to add content!!
 
 
 ## Signatures
+Yazmin Herrera 104
 
-Need to add content!!
 
