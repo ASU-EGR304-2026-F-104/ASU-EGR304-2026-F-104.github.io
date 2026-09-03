@@ -125,5 +125,6 @@ Overall, the agreed upon process for resolving conflicts is through communicatio
 
 ## Signatures
 Yazmin Herrera 104
+Logan Maelstrom 104
 
 
