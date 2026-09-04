@@ -127,4 +127,5 @@ Overall, the agreed upon process for resolving conflicts is through communicatio
 Yazmin Herrera 104
 Logan Maelstrom 104
 Matthew Hopwood 104
+Hannah Ross 104
 
