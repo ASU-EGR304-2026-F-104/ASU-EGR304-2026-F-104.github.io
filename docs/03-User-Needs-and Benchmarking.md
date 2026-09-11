@@ -8,7 +8,7 @@ title: User Needs and Benchmarking
 
 **Keywords:** "wearable driver drowsiness alarm"
 
-**Search Results Link:** https://a.co/d/0eyMB3mh
+**Search Results Link:** https://www.amazon.com/s?k=wearable+driver+drowsiness+alarm
 
 ### Selected Products
 
