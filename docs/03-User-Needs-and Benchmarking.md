@@ -151,42 +151,42 @@ Figure 3.4 Drowsy Driver Device
 
 ### Search #5
 
-**Keywords:** <list an alternative search you did, if applicable>
+**Keywords:** vibration+zap+wearble+drowsy
 
-**Search Results Link:** <add your link here>
+**Search Results Link:** <[Amazon Link](https://a.co/d/0f7nWGee)>
 
-#### 5.  < (link to the product)
+#### 5. ([link to the product](https://a.co/d/0f7nWGee))
+<img width="804" height="542" alt="51Ge4x9tgvL _AC_SL1000_" src="https://github.com/user-attachments/assets/c09cf32f-3552-436d-8d66-f094d7d45764" />
 
-**(include a picture)**  
+Figure 3.5 DB DrowseBuster-E Anti-Sleepy Gadget
 
-Figure 3.5 TITLE  
+* Price: $25.49
 
-* Price:
+* Vendor: DB
 
-* Vendor:
-
-* Description:
+* Description: It keeps customers awake by attaching to earlobes and running electricity through the clips. There are different strength levels for the electricity. The main part clips onto your seatbelt or shirt.
 
 #### Positive Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| X | X |
-| X | X |
-| X | X |                                                                                                          
+| Good quality and fast delivery 100%recommended to friends  | 1: Seems to do exactly what was required from it (latent) 2: Delivery is fast (explicit) |
+| It worked well but the device turned off after short time.  | 1: Works well (explicit) 2: Battery power should be improved (latent) 3: Power efficiency should be a mode that rotates between levels (latent) |
+| I used this device for several days but it doesn't keep me awake in the first two levels, I tried several settings but I don't think it'll be what I need to help me driving safe. It has higher levels of intensity but I doubt a person can hold a strong electricity level. | 1: There are noticeable differences between levels (latent) 2: Tuning the pain and effectiveness 3: could be effective (latent) 4: May be painful to use if used at effective levels (latent) 5: Could have alternative effects at low levels(latent) 6: vibrations could be a solution to keeping effectiveness (latent) |                                                                                                          
 
 ##### Negative Comments
 
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| X | X |
-| X | X |
-| X | X | 
-
+| Horrible doesn't work don't waste your time | 1: Product doesn’t work (explicit) 2: The product is worth the time spent purchasing and using (latent)|
+| Product works, but 1: hurts like stinging bees on your ears. 2: It's a tens unit, just with two ball point of contact. 3: dosnt track or know if your sleepy, you have to do that and turn it on. 4: Works, but again having a tens unit on your wrist works just as well. 5: Did I mention it hurts so badly your basically shocking yourself awake. | 1: Needs to be less painful (explicit) 2: Could take on features of other products to make up for shortcomings (latent) 3: Should track your sleep rather than being always on or off (latent) |
+| Chinese garbage. Never even powered up. You expect this kind of junk if you buy it from Wish. You expect better from Amazon. Doesn't deserve one star. | 1: Quality control needs to be more effective (explicit) 2: Product that is advertised on a well known website doesn’t make customer worry if product will be effective and well made(latent) | 
+| I did not like these. I either had to set it so low that it would no longer affect me if I was tired, or set it all the way up to know it was working, which would really hurt after 1 or 2 minutes. There was really no in between, and I couldn't keep it on for very long. Not too effective if you have a really long drive to make while you're sleepy.  | 1: Options to reduce pain over time could be an option (latent) 2: Settings could be a little less drastic in effects (latent) 3: Emphasis on normal use cases rather than arbitrary power levels (latent) |
 
 
 ## Organized Need Statements
+
 
 The statements were organized into six categories with user need statements to define each one:  
 $\color{red}\textsf{The product alerts drivers quickly when drowsy behaviors occur}$  
