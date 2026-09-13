@@ -45,7 +45,7 @@ title: User Needs and Benchmarking
 
 **Search Results Link:** [Amazon Search Results](https://www.amazon.com/s?k=wearable+driver+drowsiness+alarm)
 
-#### 2.  https://a.co/d/06xpCcnY
+#### 2.  [Driver Monitoring System AI Fatigue Warning Device](https://a.co/d/06xpCcnY)
 
 ![Driver Drowsiness Alarm](image/WhatsApp%20Image%202026-09-12%20at%2011.26.11%20AM.jpeg)
 
@@ -107,7 +107,7 @@ title: User Needs and Benchmarking
 
 #### 4.  [ResqMe Drowsy Driver Device](https://resqme.com/products/alertme-drowsy-driver-device?srsltid=AfmBOordCNlvg_SnEDFfu_NObqR69dvxJY915LYuPEQe2opNMB_u878y)
 
-**(include a picture)**
+<img src="https://github.com/user-attachments/assets/a791f025-cf61-4587-8db5-d59d8babec9d"/>
 
 * Price: $9.95
 
