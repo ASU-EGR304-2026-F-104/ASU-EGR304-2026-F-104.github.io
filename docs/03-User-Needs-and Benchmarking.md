@@ -24,7 +24,7 @@ Figure 3.1 Driving Doze Reminder
 
 #### Positive Comments
 
-| Voice of the Customer | Restated Customer Needm|
+| Voice of the Customer | Restated Customer Need|
 | --- | --- |
 | "These are great to keep a driver awake during long monotonous drives or nighttime driving. I’ve given several to friends that I don’t want to crash when responding to after hours call outs." | 1. The product keeps the driver awake during long drives |
 | "Worked like it was supposed to used for long drive" | 2. The product keeps the driver awake during nighttime drives (explicit)|
