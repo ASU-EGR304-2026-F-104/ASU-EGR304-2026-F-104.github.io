@@ -211,7 +211,7 @@ The list of 100 statements was then divided up by which question it answered bes
 
 The statements were organized into six categories with user need statements to define each one:  
 $\color{red}\textsf{The product alerts drivers quickly when drowsy behaviors occur}$  
-$\color{yellow}\textsf{The product is comfortable and convinient for the user}$  
+$\color{gold}\textsf{The product is comfortable and convinient for the user}$  
 $\color{green}\textsf{The product lasts for many uses}$  
 $\color{blue}\textsf{The product brings awareness to dangerous driving}$  
 $\color{purple}\textsf{The product is made of high quality material}$  
