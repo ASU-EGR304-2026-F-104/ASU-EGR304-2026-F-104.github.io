@@ -81,9 +81,9 @@ Figure 3.2 Driver Drowsiness Alarm
 
 **Keywords:** "vibration zap wake-up alarm"
 
-**Search Results Link:** [Amazon Search Results](https://www.amazon.com/s?k=electric+zap+watch+for+heavy+sleepers)
+**Search Results Link:** <[Amazon Search Results](https://www.amazon.com/s?k=electric+zap+watch+for+heavy+sleepers)>
 
-#### 3.  < (https://a.co/d/03SSCKC)
+#### 3.  <[Amazon Link](https://a.co/d/03SSCKC)>
 
 <img width="1070" height="1500" alt="Pavlok shock clock 3" src="https://github.com/user-attachments/assets/324ca58c-e0bb-490b-92e9-64da3491c2ea" />
 
