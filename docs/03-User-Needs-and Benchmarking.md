@@ -230,7 +230,7 @@ $\color{gray}\textsf{The product functions as intended}$
 11. $\color{purple}\textsf{The product purchase satisfies the customer (explicit)}$  
 12. $\color{purple}\textsf{The product works as advertised (explicit)}$  
 13. $\color{red}\textsf{The product is effective at alerting right away (latent)}$  
-14. $\color{yellow}\textsf{The product is comfortable while in use (explicit)}$  
+14. $\color{orange}\textsf{The product is comfortable while in use (explicit)}$  
 15. $\color{gray}\textsf{The product stays in place while in use (explicit)}$  
 16. $\color{blue}\textsf{The product promotes safe driving (explicit)}$  
 17. $\color{blue}\textsf{The product increases awareness of fatigue (explicit)}$  
