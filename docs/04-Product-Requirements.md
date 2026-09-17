@@ -4,7 +4,19 @@ title: Product Requirements
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+This project aims to design and develop an awareness device for drivers who may experience drowsiness and fatigue. The product will have a system with components that include an audible buzzer, flashing LED, actuator, and motion sensor that will all trigger a response to alert the driver if they start experiencing fatigue or drowsiness. The product is planned to be convenient, compact, rechargeable, and easy for the driver to use. 
+
+| Objective | Specifics | Units |
+|-----------|-----------|-------|
+| Battery life | Should last 8 hours minimum, have a rechargeable feature | Hours |
+| Size | Should not exceed 11in x 5in x 4in | in |
+| Weight | Should not exceed 5 lbs | lbs |
+| Visually Appealing | Should make at least 75% of the customers rate the product visually appealing | percentage of positive reviews on aesthetic of product|
+| Buzzer alarm | Reacts to motion sensor to trigger buzzer for user to stay awake | Decibels |
+| Motion sensor | Should detect head movement, if head is within 10 cm of sensor, will trigger assuming the driver is falling asleep | cm |
+| LED | Reacts to motion sensor to trigger flash to alert the user to stay awake | Lumen |
+| Actuator | Should tap the driver to wake them up by rotating from 0 to 90 degrees and 90 to 180 degrees | Degrees |
+| 5V Regulator | Should maintain an output voltage of 5V to the system | Volts |
 
 ## Stakeholders
 
