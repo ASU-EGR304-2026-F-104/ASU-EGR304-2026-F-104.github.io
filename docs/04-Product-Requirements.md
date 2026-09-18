@@ -102,11 +102,20 @@ The product design will be based on the wearable structure of a common portable 
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
-  
+The device will need to conform to several specifications that will be mentioned. These are both technical and subjective requirements. 
+1. **The product needs to be effective at keeping you awake.**
+      * We need to test or verify in some way that the led’s, buzzer, and vibration motors which are operated by the sensors actually are effective at keeping drivers awake.
+2. **Battery and power specifications**
+      * We need the battery to last 8 hours minimum and the power output needs to hold 5 volts steady. We can simulate load on the battery along with stress test the power output regulator in order to make sure those are up to specification
+3. **Physical size**
+      * We will make sure that the final design is within the specifications of 11x5x4 inches and doesn’t exceed 5 pounds. We can do this by going a few inches under the size requirement in order to avoid dealing with tolerances going above the limit along with choosing materials and components that are ergonomic and relatively lightweight
+4. **Safety**
+      * This one can be hard to determine but I think the best we can do without actually testing it is to make sure that if the product were to be destroyed the electrical would not create a shock hazard or start a fire.
+      * On top of that I think it should also be important to consider how dangerous the product could be in the event of an accident especially since it is around your neck. We need to design the product in such a way that during an impact the product itself doesn’t injure customers.
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Are we able to make this product cheaper than our competitors without sacrificing effectiveness?
+* Can we for sure state that the sensors will work under all conditions to accurately read drowsiness traits?
+* What ways can this product fail and if it does fail how can we design it in such a way that it fails safely.
+* How can we design the product in such a way that it lasts the longest without failing under normal usage conditions?
