@@ -18,6 +18,7 @@ This project aims to design and develop an awareness device for drivers who may 
 | Actuator | Should tap the driver to wake them up by rotating from 0 to 90 degrees and 90 to 180 degrees | Degrees |
 | 5V Regulator | Should maintain an output voltage of 5V to the system | Volts |
 
+
 ## Stakeholders
 
 * **Target group** Drivers who spend long hours on the road. Narcoleptic people who have trouble focusing on driving.
@@ -26,17 +27,21 @@ This project aims to design and develop an awareness device for drivers who may 
 * **Marketing & Sales division** Looks for unique selling points around safety and comfort when driving.
 * **Retailers** Prefer products that can withstand a wide range of storage conditions including hot car temperatures, long battery life, fits in with the design of a car interior.
 
+
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Noah
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Noah is a 40-year-old man who drives long nights as a CDL Truck Driver. The drives stretch long hours and often far into the night. He has to keep going though, to meet his job's deadlines. His drowsy driver device senses whenever Noah drifts off and alerts him to stay awake on the road. It allows him to remain safe during long drives and deliver his loads.  
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Noah thinks some designs of drowsy devices look silly, but the one he uses matches the style of his interior so when it's being stored it blends right in. It's compact for him to store safely when not in use and comfortable for him to wear for hours at a time. He enjoys knowing he has another safety step while he's driving his CDL truck.  
 
-### User Story #2
+### User Story #2: Alexis
 
-...
+Alexis is a 21-year-old student at NAU. She is a full time student with a full time job and struggles to fit everything in her daily schedule. Alexis spends hours at the library studying or finishing homework before she has to clock in for her shift. With so much to do, Alexis uses a drowsy driver device to keep her focused on her work. It registers her heart rate slowing and sends a vibrational shock to her device, waking her up.
+
+The device is traditionally marketed at drivers, but Alexis found it can be used in any setting to keep her focused. The device allows her to spend a little more time studying than she would otherwise get, and is sleek enough that no one in public questions her.  
+
 
 ## Aspects
 
@@ -51,10 +56,12 @@ The new product design will be based on that of the AirPods with improvements ba
       * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
       * 2.2 The product shall offer a dual microphone in each earbud. (P10)
 
+
 ## Requirement Criteria Specifications
 
 * 1.1.1 - Regulate system power from 9 volts to 5 volts
 * 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+  
 
 ## Open Questions
 
