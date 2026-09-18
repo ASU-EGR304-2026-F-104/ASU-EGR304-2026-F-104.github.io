@@ -42,7 +42,6 @@ Alexis is a 21-year-old student at NAU. She is a full time student with a full t
 
 The device is traditionally marketed at drivers, but Alexis found it can be used in any setting to keep her focused. The device allows her to spend a little more time studying than she would otherwise get, and is sleek enough that no one in public questions her.  
 
-...
 
 ## Aspects
 
@@ -100,7 +99,6 @@ The product design will be based on the wearable structure of a common portable 
       * 6.4 The internals of the product shall be built in a way to cradle the battery in a padded material, ensuring that accidental drops won’t pose a risk to the battery in terms of short circuits, chemical leaks, or dangerous thermal runaways (overheating and fires). (P10)
       * 6.5 The product must pass drop tests, ensuring that drops won’t compromise structural integrity, proving that the product is durable enough for daily use. (P10)
 
-...
 
 ## Requirement Criteria Specifications
 
