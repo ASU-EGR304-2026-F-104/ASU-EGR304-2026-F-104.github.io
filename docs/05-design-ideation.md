@@ -2,11 +2,12 @@
 title: Design Ideation
 ---
 
-
+## Introduction
+The goals for this step is to generate ideas, rank those ideas and start turning them into workable concepts. We have 3 concepts which are a wearable neck device, a wrist strap/watch device, and a clip on device.
 
 ## Initial Capture of Design Features
 
-INTRODUCTION BUT PLS SOMEONE ELSE WRITE IT I HATE IT  
+
 
 | Need | Feature | Specifics |
 |-----------|-----------|-------|
