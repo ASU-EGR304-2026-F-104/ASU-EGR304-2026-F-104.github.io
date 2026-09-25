@@ -44,6 +44,7 @@ Figure 5.2 Potential Product Design Features
 For the first concept, we made it wearable around the neck. The features we wanted to highlight with this concept was the effectiveness, drowsiness detection, quality and false alerts. We included sensors that monitor the drivers eyes, head movement, and posture. This concept also includes a vehicle integrated camera that monitors the road behavior. 
 
 <img width="1672" height="941" alt="neck device" src="https://github.com/user-attachments/assets/412327ad-37fc-4a89-b23a-21bd44906f82" />
+Figure 5.3 Wearable Neck Device
 
 
 ### Watch Device
@@ -51,6 +52,7 @@ For the first concept, we made it wearable around the neck. The features we want
 For the second concept we are utilizing a more compact and unobtrusive design in the form of a watch style. The features we wanted to highlight with this concept was effectiveness, comfort, and ease of use. It will have built in cameras to detect drowsiness through eyes, head movement and posture. It can alert the driver through sound, vibration and flashing lights and writing on the watch face.
 
 <img width="1536" height="1024" alt="Watch Device" src="https://github.com/user-attachments/assets/55c28a5d-46ef-45d5-be8f-7e21ce10f73c" />
+Figure 5.4 Watch Device
 
 
 ### Clip On Device
@@ -58,6 +60,7 @@ For the second concept we are utilizing a more compact and unobtrusive design in
 For the third concept, we made a clip on style design. The features we wanted to highlight are comfort, ease of use. It has the luxury of being a bit larger than the watch but not as large and obtrusive as the neck ring design. It has the benefits of being able to be clipped on to a few different surfaces including ac vents, clothing or seatbelts. 
 
 <img width="1536" height="1024" alt="Clip On Device" src="https://github.com/user-attachments/assets/57f1a531-3c06-433f-bf95-942307e6d2d8" />
+Figure 5.5 Clip On Device
 
 
 ## Documentation and Discussion
