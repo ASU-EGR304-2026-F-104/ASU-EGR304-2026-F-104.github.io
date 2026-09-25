@@ -23,23 +23,17 @@ INTRODUCTION BUT PLS SOMEONE ELSE WRITE IT I HATE IT
 
 
 
-
-
-
-
-
-
 ## Sorting, Ranking, Grouping  
 
-Sort your features / ideas thematically, by function, by the user need they satisfy, or some other logical grouping. Perhaps one group includes strategies for keeping attention; maybe another group includes user interface ideas. Regardless, group them along the different themes that emerge from the brainstorm.
-Spend some time ranking and discussing top ideas. Indicate which features rose to the top of each group.
-Generate new features from the ideas that came out of your discussion
-Capture and save your brainstorm at this point before you start to collect them together   
+Within these categories, overarching themes emerged and some could be combined into simpler categories. The final six features the group chose to focus on were Effectiveness, Reliability, Quality, Safety, Comfort, and Ease of Use. Based on the number of specific design choices for each feature, as well as the ranked requirements from part 4, the features were ranked in this order from most to least important. In Figure 5.1, there were only 5 categories, but the team decided to split the biggest one up so there could be more focus on the consumer's experience.
 
-<img width="512" height="336" alt="brainstorm" src="https://github.com/user-attachments/assets/47e17e72-d2f1-4d69-afcf-a4829a958d41" />  
-
+<img width="512" height="336" alt="brainstorm" src="https://github.com/user-attachments/assets/47e17e72-d2f1-4d69-afcf-a4829a958d41" />  <br>
 Figure 5.1 Inital ranking for brainstorming process  
 
+Each feature was given three possible design ideas that could benefit the consumer, as shown in Figure 5.2 below. These suggested designs were combined and assembled into three different design concepts
+
+<img width="512" height="538" alt="Screenshot 2026-09-25 112228" src="https://github.com/user-attachments/assets/8d24e5d2-23f4-40ec-8c0d-31b6af859a61" />  <br>
+Figure 5.2 Potential Product Design Features  
 
 
 ## Product Design Concepts
