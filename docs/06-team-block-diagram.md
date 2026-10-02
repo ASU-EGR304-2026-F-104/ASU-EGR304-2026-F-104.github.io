@@ -9,4 +9,4 @@ Here is our block diagram for team 104
 ![Team Block Diagram](image/BlockDiagramegr304png.png)
 
 ## Markdown
-[Download the Draw.io source file](image/Block%20diagram_team.drawio.png)
+[Download the Draw.io source file](image/BlockDiagramTeam304.drawio)
