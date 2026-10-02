@@ -24,7 +24,7 @@ Professors: Kevin Nichols, Zane Reynolds<br>
 
 ## Team Report
 
-[Block Diagram,, Process Diagram, and Message Structure](06-team-block-diagram.md)
+[Block Diagram, Process Diagram, and Message Structure](06-team-block-diagram.md)
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
