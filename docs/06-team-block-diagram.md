@@ -6,5 +6,5 @@ title: Team Block Diagram
 Here is our block diagram for team 104
 
 ## Block Diagram Image
-![Team Block Diagram](image/Block%20diagram_team.drawio.png)
+![Team Block Diagram](image/BlockDiagramegr304png.png)
 
