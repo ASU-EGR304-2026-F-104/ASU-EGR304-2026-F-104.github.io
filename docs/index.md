@@ -22,7 +22,9 @@ Professors: Kevin Nichols, Zane Reynolds<br>
 >    * This needs to be updated to reflect a team introduction.<br>
 >    * Content should also help an unfamiliar reader navigate to areas of interest.
 
+## Team Report
 
+[Block Diagram](06-team-block-diagram.md)
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
