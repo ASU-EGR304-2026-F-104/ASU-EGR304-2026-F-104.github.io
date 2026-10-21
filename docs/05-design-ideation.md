@@ -75,3 +75,5 @@ Figure 5.5 Clip On Device
 
 &nbsp;&nbsp;&nbsp;&nbsp;We wanted to keep in mind products on the market as well, so we didn’t make an exact copy of another company’s device but also wanted to add our own creativity. After this brainstorming process, we were able to narrow down our ideas into 3 concepts of what our possible product could look like and how it would work, as well as how all of the features could satisfy the recurring needs and requirements. We chose to use the AI option to generate the sketches, and had a little trouble navigating the AI prompt to produce the sketch image of our concepts at first but were finally able to work through as a team through discussing different prompts, receiving clarification from the professor, and what we liked and disliked about the results it would give us. 
 
+> [!NOTE]
+> The three images used for our product design concepts are AI generated through ChatGPT
