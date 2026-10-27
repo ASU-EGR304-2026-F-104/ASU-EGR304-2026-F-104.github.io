@@ -63,6 +63,14 @@ For the third concept, we made a clip on style design. The features we wanted to
 Figure 5.5 Clip On Device
 
 
+## Final Concept Selection
+
+From our ideation process, we came up with three candidates that allowed for a drowsy driver alarm in a wearable form factor. Our first idea was a device in the shape of a common portable neck fan, but repurposed to function like an alarm system. Our next idea was an alarm in the shape of a standard wrist watch, that alerted the user through a series of very small and compact subsystems delivered through the wrist. Our final idea was a clip-on device that had the freedom to mount to multiple different surfaces, like a piece of clothing, or the vehicle's AC vents or seatbelts. 
+
+After developing and comparing the three concepts, our team selected the wearable neck form factor as the overall design. We considered factors such as effectiveness, comfort, ease of use, sensor placement, space for electronics, and the ability to provide reliable alerts. The neck-worn concept provided the best balance of these requirements because it allows the sensors to remain close to the driver for monitoring head movement and posture while also providing space for vibration and audible alert components. Compared with the watch and clip-on concepts, the neck device also provided more room for the required electronics and allowed the components to be integrated into a single wearable system. Based on these considerations and our previously established product requirements, the team determined that the wearable neck design was the strongest concept to continue developing.
+
+
+
 ## Documentation and Discussion
 
 &nbsp;&nbsp;&nbsp;&nbsp;Our team HaMaLoYa has been focusing on what our product's purpose is, and who it’s intended for. We don’t want to stray away from the goal of this product. Keeping that in mind, we began our brainstorm sketches by splitting our customers' needs into 10 different categories we noticed were recurring in the reviews from the voice of customer (VOC) . The assignment our team referenced to draw the list of requirements was from user needs and benchmarking. Each team member then divided the needs, and came up with 10 possible solutions and ideas that could satisfy that need in our new product. This resulted in generating 100 features that could be used.
