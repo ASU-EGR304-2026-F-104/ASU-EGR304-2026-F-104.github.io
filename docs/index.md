@@ -31,7 +31,7 @@ Professors: Kevin Nichols, Zane Reynolds<br>
 | ---------------------- | -----------------------|
 | Yazmin Herrera         | [YazminHerrera.GitHub](https://yazminherreraasu.github.io/) |
 | Matthew Hopwood        | [MatthewHopwood.GitHub](https://mjhopwoo-wq.github.io/mjhopwoo-wq_EGR304_F26.github.io/) |
-| Logan Maelstrom        | [LoganMaelstrom.Github](link) |
+| Logan Maelstrom        | [LoganMaelstrom.Github](https://logan-maelstrom.github.io/Logan-Maelstrom_EGR304_F26.github.io/) |
 | Hannah Ross            | [HannahRoss.GitHub](https://hross9.github.io/hross9_EGR304_F26/) |
 
 ## QR Code to Landing Page
