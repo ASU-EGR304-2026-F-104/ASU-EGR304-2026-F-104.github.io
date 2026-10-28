@@ -30,7 +30,7 @@ Professors: Kevin Nichols, Zane Reynolds<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Yazmin Herrera         | [YazminHerrera.GitHub](https://yazminherreraasu.github.io/) |
-| Matthew Hopwood        | [MatthewHopwood.GitHub](link) |
+| Matthew Hopwood        | [MatthewHopwood.GitHub](https://mjhopwoo-wq.github.io/mjhopwoo-wq_EGR304_F26.github.io/) |
 | Logan Maelstrom        | [LoganMaelstrom.Github](link) |
 | Hannah Ross            | [HannahRoss.GitHub](https://hross9.github.io/hross9_EGR304_F26/) |
 
