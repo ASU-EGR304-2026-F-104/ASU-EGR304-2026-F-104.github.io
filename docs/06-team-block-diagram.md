@@ -8,7 +8,8 @@ The block diagram follows the wheel and spoke design, with subsystem 2 - Logan's
 The ribbon connections are numbered based on which spoke of the wheel they connect. Connection 1 is between Hannah's and Logan's boards, with an analog signal going through pin 7. Connection 2 is between Logan's and Matthew's boards, with a digital signal going through pin 3. Connection 3 is between Logan's and Yazmin's boards, with a digital signal going through pin 1. All pin 8s are connected to a unified ground to keep the system from short circuiting.
 
 ## Block Diagram Image
-![Team Block Diagram](BlockDiagramegr304NEW.png)
+<img width="4162" height="864" alt="BLOCK" src="https://github.com/user-attachments/assets/1afb3329-80c4-448a-8f79-23bb4dbeb890" />
 
 ## Markdown
-[Download the Draw.io source file](image/BlockDiagramTeam304.drawio)
+[Download the Draw.io source file](https://github.com/user-attachments/files/34144135/BLOCK.1.pdf)
+
