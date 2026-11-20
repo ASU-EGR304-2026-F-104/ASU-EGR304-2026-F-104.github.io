@@ -13,3 +13,45 @@ The ribbon connections are numbered based on which spoke of the wheel they conne
 ## Markdown
 [Download the Draw.io source file](https://github.com/user-attachments/files/34144135/BLOCK.1.pdf)
 
+## Team Connection Tables
+
+_**Table 1.0**: Team connection between Hannah and Logan_
+
+| Pin | From | To | Type | Description |
+| :------: | :----: | :----: | :----: | :----: | 
+| 1 | - | - | 0V - 5V Digital | - | - | 
+| 2 | - | - | 0V - 5V Digital | - | - | 
+| 3 | - | - | 0V - 5V Digital | - | - | 
+| 4 | - | - | 0V - 5V Digital | - | - | 
+| 5 | - | - | 0V - 5V Digital | - | - |
+| 6| - | - | 0V - 5V Analog | - | 
+| 7 | - | - | 0V - 5V Analog | - | - | 
+| 8 | GND | GND | GND | GND | GND | 
+
+
+_**Table 1.1**: Team connection between Logan and Matthew_
+
+| Pin | From | To | Type | Description |
+| :------: | :----: | :----: | :----: | :----: | 
+| 1 | - | - | 0V - 5V Digital | - | - | 
+| 2 | - | - | 0V - 5V Digital | - | - | 
+| 3 | - | - | 0V - 5V Digital | - | - | 
+| 4 | - | - | 0V - 5V Digital | - | - | 
+| 5 | - | - | 0V - 5V Digital | - | - |
+| 6| - | - | 0V - 5V Analog | - | 
+| 7 | - | - | 0V - 5V Analog | - | - | 
+| 8 | GND | GND | GND | GND | GND | 
+
+
+_**Table 1.2**: Team connection between Logan and Yazmin_
+
+| Pin | From | To | Type | Description |
+| :------: | :----: | :----: | :----: | :----: | 
+| 1 | - | - | 0V - 5V Digital | - | - | 
+| 2 | - | - | 0V - 5V Digital | - | - | 
+| 3 | - | - | 0V - 5V Digital | - | - | 
+| 4 | - | - | 0V - 5V Digital | - | - | 
+| 5 | - | - | 0V - 5V Digital | - | - |
+| 6| - | - | 0V - 5V Analog | - | 
+| 7 | - | - | 0V - 5V Analog | - | - | 
+| 8 | GND | GND | GND | GND | GND | 
