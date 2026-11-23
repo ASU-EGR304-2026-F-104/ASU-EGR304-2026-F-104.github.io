@@ -25,7 +25,7 @@ _**Table 1.0**: Team connection between Hannah and Logan_
 | 4 | - | - | 0V - 5V Digital | Not used | 
 | 5 | - | - | 0V - 5V Digital | Not used | 
 | 6| - | - | 0V - 5V Analog | Not used | 
-| 7 | Hannah (R1) | Logan(R#?) | 0V - 5V Analog | Photoresistor output <br> signal |  
+| 7 | Hannah (RA1) | Logan(RA0) | 0V - 5V Analog | Photoresistor output <br> signal |  
 | 8 | GND | GND | GND | GND | GND | 
 
 
