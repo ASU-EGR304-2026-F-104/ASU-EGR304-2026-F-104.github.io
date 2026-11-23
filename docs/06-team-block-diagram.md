@@ -34,8 +34,8 @@ _**Table 1.1**: Team connection between Logan and Matthew_
 | Pin | From | To | Type | Description |
 | :------: | :----: | :----: | :----: | :----: | 
 | 1 | - | - | 0V - 5V Digital | Not used |  
-| 2 | - | - | 0V - 5V Digital | Not used |  
-| 3 | Logan (RD2) | Matthew (RA3) | 0V - 5V Digital | Motor activation <br> signal | 
+| 2 | -| Matthew (RA4) | 0V - 5V Digital | Not used |  
+| 3 | Logan (RD2) | - | 0V - 5V Digital | Motor activation <br> signal | 
 | 4 | - | - | 0V - 5V Digital | Not used | 
 | 5 | - | - | 0V - 5V Digital | Not used | 
 | 6| - | - | 0V - 5V Analog | Not used | 
@@ -50,7 +50,7 @@ _**Table 1.2**: Team connection between Logan and Yazmin_
 | 1 | - | - | 0V - 5V Digital | Not used |  
 | 2 | - | - | 0V - 5V Digital | Not used | 
 | 3 | - | - | 0V - 5V Digital | Not used |  
-| 4 | Logan (RF1) | Yazmin (RB2) | 0V - 5V Digital | Speaker activation <br> signal from extra GPIO header | 
+| 4 | Logan (RF1) | Yazmin (RB2) | 0V - 5V Digital | Speaker activation <br> signal | 
 | 5 | - | - | 0V - 5V Digital | Not used |
 | 6| - | - | 0V - 5V Analog | Not used | 
 | 7 | - | - | 0V - 5V Analog |  Not used | 
