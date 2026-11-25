@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Lessons Learned
-<br> In this course we learned many things. The top 10 most important things we learned as a team from this project would be: communication, time management, planning ahead, interpreting schematics, soldering, making footprints, designing a PCB, creating gerber files, printing a PCB and . Throughout this project, our team was in constant communication. We learned to collaborate with each other and created a safe space to express our opinions. Time Management we had to consistently keep in mind deadlines and plan accordingly to meet outside of class time to complete the tasks.
+<br> In this course we learned many things. The top 10 most important things we learned as a team from this project would be: communication, time management, planning ahead, interpreting schematics, soldering, making footprints, designing a PCB, creating gerber files, ordering and printing a PCB, and lastly  . Throughout this project, our team was in constant communication. We learned to collaborate with each other and created a safe space to express our opinions. Time Management we had to consistently keep in mind deadlines and plan accordingly to meet outside of class time to complete the tasks.
 
 <br>
 
