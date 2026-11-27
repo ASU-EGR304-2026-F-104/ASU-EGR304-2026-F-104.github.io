@@ -34,6 +34,9 @@ Professors: Kevin Nichols, Zane Reynolds<br>
 | Logan Maelstrom        | [LoganMaelstrom.Github](https://logan-maelstrom.github.io/Logan-Maelstrom_EGR304_F26.github.io/) |
 | Hannah Ross            | [HannahRoss.GitHub](https://hross9.github.io/hross9_EGR304_F26/) |
 
+## Final Project Picture
+![FINALPROJECTPICTURE](REPLACEWITHACTUALPICTUREHERE.png)
+
 ## QR Code to Landing Page
 <img width="500" height="500" alt="qr-code" src="https://github.com/user-attachments/assets/5055eb1e-4a7d-45e3-b7ae-9de882d5bdfe" />
 
