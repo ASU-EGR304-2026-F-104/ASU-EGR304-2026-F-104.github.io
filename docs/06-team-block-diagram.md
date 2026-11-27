@@ -7,6 +7,13 @@ The block diagram follows the wheel and spoke design, with subsystem 2 - Logan's
 
 The ribbon connections are numbered based on which spoke of the wheel they connect. Connection 1 is between Hannah's and Logan's boards, with an analog signal going through pin 7. Connection 2 is between Logan's and Matthew's boards, with a digital signal going through pin 3. Connection 3 is between Logan's and Yazmin's boards, with a digital signal going through pin 1. All pin 8s are connected to a unified ground to keep the system from short circuiting.
 
+## Team Decision Making Process
+(discuss team's design and decision making process related to message structure REPLACE THIS SECTION WITH ANSWER)
+
+## List of top 5 Changes
+(Numbered list of the top 5 biggest changes to your software design since the software proposal. Include several sentences for each change describing the issue and how you resolved it. Use the UML diagrams above to support the discussion. REPLACE THIS SECTION WITH ANSWER)
+
+
 ## Block Diagram Image
 <img width="4162" height="864" alt="TeamBlockDiagram11-25 drawio" src="https://github.com/user-attachments/assets/319dcc76-def7-4f6c-95ef-234e5ddd4e3f" />
 <!--
